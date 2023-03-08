@@ -1,0 +1,3 @@
+ini adalah proses remote
+yang mana  kita mengendalikan repository yang ada didalam git hub
+dengan git bush
